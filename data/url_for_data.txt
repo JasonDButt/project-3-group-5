@@ -1,0 +1,1 @@
+https://paleobiodb.org/data1.2/specs/list.json?datainfo&rowcount&max_ma=251&min_ma=66&show=class,coords,paleoloc,stratext
